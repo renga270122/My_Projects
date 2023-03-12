@@ -1,0 +1,5 @@
+ls -al
+cat file3.txt
+echo "playing around with linux and git commands"
+uptime
+
