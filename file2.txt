@@ -1,0 +1,2 @@
+echo "This is my second text file"
+echo "I am learning Git Hub and its commands"
